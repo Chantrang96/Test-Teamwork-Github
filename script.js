@@ -1,1 +1,1 @@
-alert("Xin chào! Đây là popup từ JavaScript 🚀"); // chị sửa thử dòng này xem ntn nhé
+alert("Hello Trang! Đây là popup từ Ruby 🚀"); // chị sửa thử dòng này xem ntn nhé
